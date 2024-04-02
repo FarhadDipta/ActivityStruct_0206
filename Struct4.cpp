@@ -32,6 +32,7 @@ int main(){
     }
     
 
+    for (int i = 0; i < 3; i++){
     cout << endl;
     cout << "\nNim : " << mhs.nim;
     cout << "\nNama : " << mhs.nama;
@@ -39,4 +40,5 @@ int main(){
     cout << "\n\tDesa : " << mhs.alamat.desa;
     cout << "\n\tKota : " << mhs.alamat.kota;
     cout << "\nUmur : " << mhs.umur;
+    }
 }
