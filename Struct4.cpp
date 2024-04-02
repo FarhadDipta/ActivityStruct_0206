@@ -43,5 +43,6 @@ int main(){
     cout << "\n\tDesa : " << mhs[i].alamat.desa;
     cout << "\n\tKota : " << mhs[i].alamat.kota;
     cout << "\nUmur : " << mhs[i].umur;
+    cout << endl; 
     }
 }
